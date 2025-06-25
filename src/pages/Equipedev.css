@@ -1,0 +1,40 @@
+.container2 {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 30px 30px;
+  background:#f0f8ff;
+  border-radius: 10px;
+  color: #007bff;
+  box-shadow: 0 0 15px #ccc;
+  text-align: center;
+}
+
+
+.container2 h2 {
+  color: #003366;
+  font-size: 2.2rem;
+  margin-bottom: 50px;
+}
+
+.container2 p {
+  font-size: 1.3rem;
+  color: #555;
+  line-height: 1.5;
+  text-align: center;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.equipe-icon {
+  font-size: 3rem;
+ 
+}
+
+.equipe-info {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: center;
+  text-align: left;
+}
